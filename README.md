@@ -6,7 +6,7 @@ Users simply upload their student profile as a PDF, enter job-specific details l
 
 This project demonstrates the real-world use of LLMs integrated with vector databases, enabling contextual awareness and personalization by retrieving relevant data before generation — the core idea behind modern RAG pipelines.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **🚀 Key Features:**
@@ -25,7 +25,7 @@ This project demonstrates the real-world use of LLMs integrated with vector data
 
 🔒 Secure API access using your Google Gemini API key
 
-
+------------------------------------------------------------------------------------------------
 
 **🧠 Workflow Overview:**
 
@@ -45,7 +45,7 @@ This project demonstrates the real-world use of LLMs integrated with vector data
 
 R) esult is displayed and downloadable as a PDF 📥
 
-
+--------------------------------------------------------------------------------------------------
 
 **🔗 Clone This Repository:**
 
