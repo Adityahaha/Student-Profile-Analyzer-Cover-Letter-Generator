@@ -27,6 +27,8 @@ This project demonstrates the real-world use of LLMs integrated with vector data
 
 ------------------------------------------------------------------------------------------------
 
+
+
 **🧠 Workflow Overview:**
 
 1) Upload student PDF resume 📄
@@ -52,4 +54,11 @@ R) esult is displayed and downloadable as a PDF 📥
 git clone https://github.com/Adityahaha/Student-Profile-Analyzer-Cover-Letter-Generator.git
 cd Student-Profile-Analyzer-Cover-Letter-Generator
 
+
+-------------------------------------------------------------------------------------------------------
+
+
+**Interface**
+
+Screenshot 2025-07-03 093740.png
 
