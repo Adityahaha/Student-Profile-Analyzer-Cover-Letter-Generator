@@ -60,5 +60,6 @@ cd Student-Profile-Analyzer-Cover-Letter-Generator
 
 **Interface**
 
-Screenshot 2025-07-03 093740.png
+![Cover Preview](interface.png)
+
 
