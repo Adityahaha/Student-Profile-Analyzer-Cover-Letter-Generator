@@ -1,4 +1,5 @@
-📝 AI-Powered Student Profile Analyzer using RAG, LangChain & Gemini
+# 📝 AI-Powered Student Profile Analyzer using RAG, LangChain & Gemini
+
 Student Profile Analyzer is an intelligent web-based application that generates highly personalized and professional cover letters for students by analyzing their resumes. It leverages the power of Retrieval-Augmented Generation (RAG) with Google's Gemini LLM, LangChain framework, and FAISS vector search.
 
 Users simply upload their student profile as a PDF, enter job-specific details like company name, address, and position — and the system generates a high-quality, customized cover letter in seconds. The generated letter is also available for download as a formatted PDF.
@@ -8,7 +9,7 @@ This project demonstrates the real-world use of LLMs integrated with vector data
 
 
 
-🚀 Key Features:
+**🚀 Key Features:**
 
 📥 Upload your student resume as a PDF
 
@@ -26,7 +27,7 @@ This project demonstrates the real-world use of LLMs integrated with vector data
 
 
 
-🧠 Workflow Overview:
+**🧠 Workflow Overview:**
 
 1) Upload student PDF resume 📄
 
@@ -46,7 +47,7 @@ R) esult is displayed and downloadable as a PDF 📥
 
 
 
-🔗 Clone This Repository:
+**🔗 Clone This Repository:**
 
 git clone https://github.com/Adityahaha/Student-Profile-Analyzer-Cover-Letter-Generator.git
 cd Student-Profile-Analyzer-Cover-Letter-Generator
